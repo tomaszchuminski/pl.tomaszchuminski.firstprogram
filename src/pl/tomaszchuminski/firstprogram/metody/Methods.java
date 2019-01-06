@@ -1,5 +1,5 @@
 package pl.tomaszchuminski.firstprogram.metody;
-//change for git123
+//change for git
 public class Methods {
     public static void main(String[] args) {
         hi();
