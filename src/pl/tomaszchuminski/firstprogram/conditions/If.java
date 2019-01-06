@@ -1,5 +1,5 @@
 package pl.tomaszchuminski.firstprogram.conditions;
-
+//change for git
 public class If {
 
     public static void main(String[] args) {

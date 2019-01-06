@@ -1,5 +1,5 @@
 package pl.tomaszchuminski.firstprogram.firststep;
-
+//change for git
 public class Main {
     public static void main(String[] args) {
         System.out.println("lol");

@@ -1,5 +1,5 @@
 package pl.tomaszchuminski.firstprogram.loops;
-
+//change for git
 public class Loops {
     public static void main(String[] args) {
 

@@ -1,5 +1,5 @@
 package pl.tomaszchuminski.firstprogram.loops;
-
+//change for git
 public class LoopsMG {
     public static void main(String[] args) {
         int[] ints = {23, 43, 71, 11, 32};
