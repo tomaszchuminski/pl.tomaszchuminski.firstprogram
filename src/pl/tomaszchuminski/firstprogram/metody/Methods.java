@@ -3,7 +3,7 @@ package pl.tomaszchuminski.firstprogram.metody;
 public class Methods {
     public static void main(String[] args) {
         hi();
-        hi("Karol", "Jacek");
+        hi("Karol", "Jacek", "Placek");
     }
 
     private static void hi(String... names) {
