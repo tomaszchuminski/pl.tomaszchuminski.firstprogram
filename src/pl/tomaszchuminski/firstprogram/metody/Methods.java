@@ -2,7 +2,7 @@ package pl.tomaszchuminski.firstprogram.metody;
 //change for git
 public class Methods {
     public static void main(String[] args) {
-        hi();
+       // hi();
         hi("Karol", "Jacek", "Pl");
     }
 
